@@ -1,4 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center"> Official Website </h1> <br>
+<p align="center">
+  <a href="https://cdsorg.vercel.app/">
+    <img alt="CDS" title="CDS" src="https://github.com/GopalVerma1303/cds-website/blob/bb67b00f02372e2272497946b31bbdad59206ae2/public/cdsglobe.png" width="350">
+  </a>
+</p> <br>
+<h4 align="center">Code was being deployed. Code has been deployed. Code will be deployed.</h4>
+
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/CodeDeployingSquad?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-9-brightgreen.svg" alt="Repositories">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/graphs/contributors">
+    <img src="https://img.shields.io/badge/Contributors-15-blue.svg" alt="Contributors">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Commits-3200-orange.svg" alt="Commits">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/pulls">
+    <img src="https://img.shields.io/badge/PRs%20Open-25-brightgreen.svg" alt="PRs Open">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/issues">
+    <img src="https://img.shields.io/badge/Issues%20Open-50-red.svg" alt="Issues Open">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/network/members">
+    <img src="https://img.shields.io/badge/Forks-30-lightgrey.svg" alt="Forks">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/stargazers">
+    <img src="https://img.shields.io/badge/Stars-1500-yellow.svg" alt="Stars">
+  </a>
+</div>
+
+<br>
+<br>
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Feedback](#feedback)
+- [Contributors](#contributors)
+- [Build Process](#build-process)
+- [Backers](#backers-)
+- [Sponsors](#sponsors-)
+- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
