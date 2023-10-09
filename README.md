@@ -1,9 +1,9 @@
-<h1 align="center"> Official Website </h1>
+<h1 align="center"> Official Website </h1> <br>
 <p align="center">
   <a href="https://cdsorg.vercel.app/">
-    <img alt="CDS" title="CDS" src="https://github.com/GopalVerma1303/cds-website/blob/7397786b09092fc78e99b915f10f971417112159/public/cdsglobe.png" width="100%">
+    <img alt="CDS" title="CDS" src="https://github.com/GopalVerma1303/cds-website/blob/bb67b00f02372e2272497946b31bbdad59206ae2/public/cdsglobe.png" width="450">
   </a>
-</p>
+</p> <br>
 <h4 align="center">Code was being deployed. Code has been deployed. Code will be deployed.</h4>
 
 
