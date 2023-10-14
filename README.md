@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/Stars-1500-yellow.svg" alt="Stars">
   </a>
 </div>
-
 <br>
 <br>
 
@@ -71,6 +70,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+---
+<br>
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
@@ -86,6 +87,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+---
+<br>
+
 ## Introduction
 
 CDS: An Open Source Community for Everyone 🤝
@@ -97,6 +101,9 @@ Open source development is a collaborative way of creating software. Anyone can 
 CDS has a variety of open source repositories that you can contribute to, or simply learn from. 📚 Our repositories cover a wide range of topics, including web development, machine learning, and data science. 💻🧠📈
 
 We also have a number of resources available to help people get started with open source development. 💡 These resources include tutorials, documentation, and a community of experienced developers who are willing to help. 🤝
+
+---
+<br>
 
 ## Features
 
@@ -112,6 +119,8 @@ Here are some of the key features of CDS:
 
 > Educational: We provide a variety of resources to help you learn new technologies and gain knowledge by doing. 💡
 
+---
+<br>
 
 ## Feedback
 
@@ -126,6 +135,9 @@ Here are some specific ways you can provide feedback:
 -> Attend our meetups and events and share your feedback with us in person. 🤝
 
 We appreciate all feedback, both positive and negative. We use your feedback to improve our documentation, tutorials, and code. We also use your feedback to prioritize new features and bug fixes.🎯
+
+---
+<br>
 
 ## Contributors
 
@@ -147,6 +159,8 @@ CDS offers a supportive home for both. 🏡
 
 🔬 **Explore, Contribute, and Shape the Future**: By joining CDS, you can explore various tech stacks, contribute meaningfully, and shape the future of open source technology. 💻✨
 
+---
+<br>
 
 ## 🛠️ Build Process 🚀
 
@@ -164,18 +178,35 @@ CDS offers a supportive home for both. 🏡
 
 🧪 Testing Environments: To maintain project stability and minimize potential issues, we maintain staging and testing environments. Changes are thoroughly validated here before deployment, safeguarding the reliability of our projects.
 
+---
+<br>
+
 ## 🤝 Backers 🙏
 
 The support from our backers is invaluable to us at CDS. 🌟 Your contributions enable us to continue our mission of fostering open source development, providing a welcoming and inclusive environment for all. Your backing helps us maintain our infrastructure, improve user experiences, and expand our offerings. 🚀
 
-As a token of our gratitude, we offer special recognition to our backers. Your generosity is not just a financial boost but also a motivation for us to keep growing and innovating. With your support, we can reach new heights and provide even more opportunities for developers at all levels.
-
 Join our community of backers and help us shape the future of open source technology. 🌐 Together, we make a significant impact on the world of development. Thank you for being an essential part of CDS. 🙌💻
+
+---
+<br>
 
 ## 💼 Sponsors 💡
 
 > Sponsors are the lifeblood of CDS, our GitHub organization. Your sponsorship fuels our open source mission, creating an inclusive space for all. With your support, we invest in infrastructure, enhance user experiences, and broaden our horizons. 🌱
 
-> We show our gratitude to sponsors through special recognition. Your sponsorship isn't just financial; it's the driving force behind our growth and innovation. Together, we shape the future of open source technology. Join us as a sponsor and be a vital part of CDS. 🚀 Thank you for your support. 🙌💻
 
+---
+<br>
+
+## Join the Community!
+
+We invite you to contribute, star the repository, or simply explore our project. 🌟 By starring the repository, you help us reach more developers. 🛠️ Contributing code, reporting issues, or enhancing documentation, you make a genuine impact. Your feedback and involvement are essential. Let's work together, join our vibrant community, and create something amazing! 🚀
+
+Happy coding!
+
+<p align="center">
+  <a href="https://giphy.com/gifs/CleverCodeLab-friday-deploy-ROlbnsc7aCIL6Icq6h">
+    <img src="https://media.giphy.com/media/ROlbnsc7aCIL6Icq6h/giphy.gif" alt="Click to View GIF" width="300" height="300">
+  </a>
+</p>
 
